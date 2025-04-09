@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.NavList{
+   
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+.logo{
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.navbar {
+    background-color: rgb(188, 181, 189);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 180px;
+}
+
+/* Default menu */
+.List {
+  
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    font-size: 18px;
+    color: white;
+}
+
+.hover:hover {
+    text-decoration: underline;
+    color:bisque
+}
+
+/* Buttons */
+.button,
+.button2 {
+    background-color: rgb(221, 215, 229);
+    color: black;
+    padding: 2px 8px;
+    border-radius: 20%;
+    border: 2px solid black;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.button:hover,
+.button2:hover {
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .navbar {
+        padding: 0 20px;
+    }
+
+    .List {
+        display: none; /* Hide menu by default */
+    }
+
+    .List.open {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 70px;
+        left: 0;
+        width: 100%;
+        background-color: rgb(0, 0, 0);
+        padding: 20px;
+        gap: 15px;
+        text-align: center;
+    }
+
+    .button,
+    .button2 {
+        width: 80%;
+        text-align: center;
+    }
+}
