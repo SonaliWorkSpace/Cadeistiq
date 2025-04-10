@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# 🎁 Cadeistiq
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Cadeistiq** is a personalized gifting platform designed to make thoughtful, budget-friendly gifting easier than ever! We specialize in customized gift packages under ₹999, curated especially for teens and adults. Whether it's birthdays, anniversaries, festivals, or just a small token of appreciation — Cadeistiq helps you gift beautifully, affordably, and meaningfully.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌟 Features
 
-### `npm start`
+- 🎀 **Customized Gift Packages**  
+  Choose from pre-curated themes or create your own bundle.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 💸 **Under ₹999 Budget**  
+  All gifts are affordable and thoughtfully assembled within your budget.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 📦 **Aesthetic Packing**  
+  Every order is delivered with eye-catching, Instagram-worthy packaging.
 
-### `npm test`
+- 🚚 **Pan-India Delivery**  
+  Deliver love and joy to any corner of India.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 📱 **Responsive Design**  
+  Access Cadeistiq easily from desktop or mobile devices.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🖼️ Live Preview
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🚧 *Coming soon!* (Add a link here when deployed)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🛠️ Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Frontend**: HTML, CSS, JavaScript (Vanilla or framework like React if used)
+- **Backend**: Node.js (Optional if dynamic), Express.js (if applicable)
+- **Styling**: TailwindCSS / Bootstrap / Custom CSS
+- **Database**: MongoDB (if storing orders or customer info)
+- **Deployment**: GitHub Pages / Vercel / Netlify / Render (Add when ready)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📸 Screenshots
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+> Add UI screenshots or mockups here once the design is ready!
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🚀 How to Use
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Browse curated gift boxes or use the search bar to find what you want.
+2. Choose gift items based on themes, occasions, or preferences.
+3. Place an order with your delivery location and preferences.
+4. Sit back while Cadeistiq prepares and delivers your gift in style.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🧑‍💼 Developed By
 
-### Analyzing the Bundle Size
+Made with ❤️ by **Sonali Mohapatra**  
+[GitHub](https://github.com/SonaliWorkSpace) | [LinkedIn](https://www.linkedin.com/in/sonali-mohapatra/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 💌 Let’s Connect
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Have questions, suggestions, or want a custom gift box for a special event?  
+📧 Email us at: **cadeistiq@gmail.com**
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📜 License
 
-### Deployment
+This project is for educational and portfolio purposes. Commercial use requires permission.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
