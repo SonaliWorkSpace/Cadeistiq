@@ -25,7 +25,7 @@
 
 ## 🖼️ Live Preview
 
-🚧 *Coming soon!* (Add a link here when deployed)
+🚧https://cadeistiq.netlify.app/
 
 ---
 
@@ -39,11 +39,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> Add UI screenshots or mockups here once the design is ready!
-
----
 
 ## 🚀 How to Use
 
@@ -64,7 +59,7 @@ Made with ❤️ by **Sonali Mohapatra**
 ## 💌 Let’s Connect
 
 Have questions, suggestions, or want a custom gift box for a special event?  
-📧 Email us at: **cadeistiq@gmail.com**
+📧 Email us at: sonaliworkspace2024@gmail.com
 
 ---
 
